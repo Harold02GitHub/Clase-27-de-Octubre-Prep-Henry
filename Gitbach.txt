@@ -1,0 +1,45 @@
+Comicacion con la maquina
+Interfaz grafica: click con el mouse botones, tecladocd
+
+1. CLI (COMMAND LINE INTERFACE) Linea de codigo comandos :git bach
+Pros:
+Requiere pocos recursos
+Facil de automatizar
+Preferido por expertos
+Muchas opciones de comandos que la GUI
+
+Contras:
+No es intuitivo
+Curva de aprendizaje lenta
+Preferido por expertos
+No es linda visualmente
+
+git bach comandos: escritorio: $ls -l: para saber que con mas detalle
+$ cd .. devolverse a la carpeta anterior
+$ cd desktop/
+$ cd clase 18 de octubre : moverse de una carpeta a otra o ingresar a una carpeta
+$ pwd: para saber donde estoy parado
+$ ls: para saber todos los archivos donde estoy parado
+$ clear: para limpiar
+$ touch: para crear un nuevo archivo
+$ mkdir: para crear una carpeta
+
+
+Configurar terminal gt bash desde visual studio code:
+git init: seguimiento a la carpeta
+git branch -M main
+(master) haciendo seguimiento, leyendo todos los archivos de la carpeta en el escritorio Henry2
+git status
+git add: agregar los archivos al comitted
+git rm --cached archivo.txt: sacar el archivo del comitted
+git add .: agrega todos los archivos
+git commit "version
+:q!:salir de la consola de error
+kit terminal para dejar de molestar
+git commit -m "version 1"
+
+
+
+
+profe lo que pasa es que nosotros tenemos que llevar una propuesta sobre la tematica que nosotros le comentamos por whatsapp entonces no sabemos por donde empezar si solo hacemos el manuel de funciones, como diligenciamos ese formato de la actividades que titulo le podriamos poner a la propuesta
+
