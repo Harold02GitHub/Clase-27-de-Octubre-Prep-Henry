@@ -38,6 +38,19 @@ git commit "version
 kit terminal para dejar de molestar
 git commit -m "version 1"
 
+Paso para asociar la carpeta a github
+git remote add origin https://github.com/Harold02GitHub/Clase-27-de-Octubre-Prep-Henry.git
+git branch -M main 
+git push -u origin main
+
+
+Reemplazar todos los usuarios 
+ git config --global --replace-all user.name "Harold02GitHub"
+
+
+Configurar el nombre del git con la carpeta
+git config --global -l : conocer los usuarios
+
 
 
 
